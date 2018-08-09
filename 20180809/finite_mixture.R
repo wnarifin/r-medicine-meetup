@@ -2,7 +2,7 @@
 # 20180809
 # Wan Nor Arifin
 
-#' # Finite mixture
+#' # Finite Mixture Model: The Bayesian Approach
 
 # A good introduction can be found here:
 # http://www.mas.ncl.ac.uk/~nmf16/teaching/mas8391/slides8303-4.pdf
@@ -18,6 +18,8 @@
 #   e.g. severity of depression etc.
 # - Latent class analysis (LCA) is the statistical analog of FMM for categorical
 #   data.
+#
+# We are going to try out FMM using the Bayesian approach
 
 #' ## Library
 library(rjags)  # must also install jags in your computer before rjags
